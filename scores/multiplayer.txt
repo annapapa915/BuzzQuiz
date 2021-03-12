@@ -1,0 +1,28 @@
+Player1: 2750, Player2: 1000, Player1 is the winner!
+pepe: 0, pepero: 1000, pepero is the winner!
+wojack: 1750, bojack: 0, wojack is the winner!
+wololo: 3440, swag: 2000, wololo is the winner!
+Player1: 800, Player2: 1880, Player2 is the winner!
+kim: 1660, kanye: 3960, kanye is the winner!
+alex: 960, sebastian: 960, Tie!
+wooper: 0, ditto: 0, Tie!
+guts: 1180, griffith: 800, guts is the winner!
+test1: 3500, test2: 4000, test2 is the winner!
+Joey: 5000, Chandler: 5000, Tie!
+test1: 3000, test2: 0, test1 is the winner!
+test1: 2000, test2: 5000, test2 is the winner!
+test1: 8310, test2: 4310, test1 is the winner!
+test1: 8000, test2: 7000, test1 is the winner!
+test1: 2480, test2: 12780, test2 is the winner!
+playertest: 1000, playertest2: 2000, playertest2 is the winner!
+playertest: 1000, playertest2: 2000, playertest2 is the winner!
+playertest: 1000, playertest2: 2000, playertest2 is the winner!
+playertest: 1000, playertest2: 2000, playertest2 is the winner!
+playertest: 1000, playertest2: 2000, playertest2 is the winner!
+glyk1: 2180, glyk2: 4180, glyk2 is the winner!
+Tom Nook: 2960, Isabelle: 8060, Isabelle is the winner!
+test1: 10250, test2: 10000, test1 is the winner!
+test1: 6780, test2: 6500, test1 is the winner!
+test1: 8960, test2: 11200, test2 is the winner!
+test1: 10160, test2: 10350, test2 is the winner!
+hf: 14250, g: 4250, hf is the winner!
